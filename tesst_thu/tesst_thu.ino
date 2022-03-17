@@ -1,3 +1,4 @@
+#Hoai ham hap ahihi
 int ENA = 9;  //10
 int IN1 = 4; //5
 int IN2 = 2;//6
