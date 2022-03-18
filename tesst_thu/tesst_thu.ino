@@ -16,7 +16,7 @@ void setup() {
   Serial.begin(9600);
 }
 
-void TienLui(){
+/*void TienLui(){
   digitalWrite(IN1, HIGH);   //tien
   digitalWrite(IN2, LOW);
   digitalWrite(IN3, HIGH);    //tien
@@ -31,7 +31,7 @@ void TienLui(){
   analogWrite(ENA, 115);
   analogWrite(ENB, 120);
   delay(3000); 
-}
+}*/
 
 void Tien(int a){
   digitalWrite(IN1, LOW);   //tien
